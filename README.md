@@ -37,7 +37,7 @@ mGnM
       d. 1 rook,
       e. 1 queen,
       f. 1 king.
-    3. Use the SVG sketch to revolve the pieces:
+     3. Use the SVG sketch to revolve the pieces:
       a. you need to take care when designing the knight; only the base
     should be revolved; find another solution for the horse part e.g:
     extrusion, fillet, etc.

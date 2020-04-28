@@ -21,11 +21,11 @@
         7. Add appearances and render the mechanism (upload a rendering photo to
           GitHub as well) 
           
-        OBS: Turn on capture history (the homework will not be graded if capture
+        **OBS**: Turn on capture history (the homework will not be graded if capture
         history is not turned on).  
         You need to upload the project as .f3d and a .stl for each projects’ body
         and component.  
-        BONUS: Design the evolution door following 2-7 steps from the homework tasks.  
+        **BONUS**: Design the evolution door following 2-7 steps from the homework tasks.  
         You can choose one from the next two versions:  
         https://tinyurl.com/yat346ds  
         https://tinyurl.com/y87t37w7  

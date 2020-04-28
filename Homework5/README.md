@@ -2,14 +2,14 @@
 
    - Tasks:
        1. Choose a mechanism from the next list and design it in Fusion:
-          - https://tinyurl.com/y8zgkzjq
-          - https://tinyurl.com/ycxhnskp
-          - https://tinyurl.com/ycc3mrls
-          - https://tinyurl.com/ybxq84ko
-          - https://tinyurl.com/y9uww3b8
-          - https://tinyurl.com/y94sx6om
-          - https://tinyurl.com/y7jvyma3
-          - https://tinyurl.com/ydabljd6
+          - [ ] https://tinyurl.com/y8zgkzjq
+          - [ ] https://tinyurl.com/ycxhnskp
+          - [ ] https://tinyurl.com/ycc3mrls
+          - [ ] https://tinyurl.com/ybxq84ko
+          - [ ] https://tinyurl.com/y9uww3b8
+          - [x] https://tinyurl.com/y94sx6om ([Geneva drive](https://en.wikipedia.org/wiki/Geneva_drive))
+          - [ ] https://tinyurl.com/y7jvyma3
+          - [ ] https://tinyurl.com/ydabljd6
         2. Divide the mechanism into components
         3. Use Fusion Rule Number 1
         4. Use suggestive names for your bodies, components, sketches, joints,

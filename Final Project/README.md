@@ -2,9 +2,9 @@
 ## This is the repository for the final project of the 3D Modeling and Printing course.
 
 Helpful Links:
+  - https://www.thingiverse.com/thing:1176646
   - https://www.youtube.com/watch?v=tE7LvsK4Y_s
   - https://www.youtube.com/watch?v=gBoPnOU8OEs
-  - https://www.thingiverse.com/thing:1176646
   
  Tasks:   
  - [x] Start the design from the canvases or the sketches created by

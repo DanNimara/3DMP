@@ -4,6 +4,8 @@
 
 - Autodesk Fusion 360
 - PrusaSlicer
+- Autodesk SketchBook
+- Inkscape
 
 ## Final Project:
 

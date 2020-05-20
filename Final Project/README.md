@@ -1,11 +1,14 @@
 # Final Project - Air Raid Siren
 ## This is the repository for the final project of the 3D Modeling and Printing course.
 
+![Air Raid Siren Photo Render](https://github.com/DanNimara/3DMP/blob/master/Final%20Project/Air%20Raid%20Siren%20Photo%20Render.png)
+
 Helpful Links:
   - https://www.thingiverse.com/thing:1176646
   - https://www.youtube.com/watch?v=tE7LvsK4Y_s
   - https://www.youtube.com/watch?v=gBoPnOU8OEs
   
+  ![Air Raid Siren Motion Study](https://github.com/DanNimara/3DMP/blob/master/Final%20Project/Air%20Raid%20Siren%20GIF.gif)    
  Tasks:   
  - [x] Start the design from the canvases or the sketches created by
  yourself for Homework no.6. (1 point)   

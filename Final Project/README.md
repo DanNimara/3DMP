@@ -13,9 +13,9 @@ Helpful Links:
  - [x] Save multiple versions and suggestively name them. (1 point)   
  - [x] Properly use and name bodies, components, joints, construction
    planes, etc. (1.5 points)   
- - Render the object applying appearance and scene. (0.5 points)  
- - Save the renderings as photos and as a VIDEO Render. (0.5
+ - [x] Render the object applying appearance and scene. (0.5 points)  
+ - [x] Save the renderings as photos and as a VIDEO Render. (0.5
       points)   
- - Add joints, motion links and joint limits. (1.5 points)  
- - Create motion studies. (0.5 points)  
- - The mechanism needs to work properly! (2 points) 
+ - [x] Add joints, motion links and joint limits. (1.5 points)  
+ - [x] Create motion studies. (0.5 points)  
+ - [x] The mechanism needs to work properly! (2 points) 
